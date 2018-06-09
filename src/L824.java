@@ -8,7 +8,8 @@ class Solution824 {
      * @timeComplexity O(n) where n is the number of characters in input string. There are constant number of vowels
      *  in line 19 to be iterated.
      * @spaceComplexity O(1) the string buffer is only for output, it is not auxiliary.
-     * @param S
+     * @param S String
+     *          Input string
      * @return Goat latin string
      */
     public String toGoatLatin(String S) {

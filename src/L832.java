@@ -4,7 +4,8 @@ class Solution832 {
      * This solution does it in place. It flips the bits while reversing a row.
      * @timeComplexity O(m*n) if the image matrix has m rows and n cols
      * @spaceComplexity O(1)
-     * @param A The image in matrix representation (only 0s and 1s)
+     * @param A int[][]
+     *          The image in matrix representation (only 0s and 1s)
      * @return Flipped and inverted image
      */
     public int[][] flipAndInvertImage(int[][] A) {
