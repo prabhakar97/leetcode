@@ -36,6 +36,9 @@ class Solution821 {
 
             // Move ptr2 and keep updating result
             while (ptr2 < ptr1 && ptr2 < S.length()) {
+                // If prevPtr isn't yet set, the distance is difference from ptr1
+                // If ptr1 is outside the string, distance is difference from prevPtr1
+                // Else the distance is min of those two
                 result[ptr2] = prevPtr1 < 0 ? (ptr1 - ptr2) : ptr1 >= S.length() ? ptr2 - prevPtr1 : Math.min(ptr1 - ptr2, ptr2 - prevPtr1);
                 ptr2++;
             }
