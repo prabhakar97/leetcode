@@ -17,10 +17,8 @@ class Solution819 {
      *          List of banned words
      * @return int[] containing distances
      */
-    private static final String PUNCTUATIONS = ",.!?';";
-
     // Predicate to check whether a word ends with punctuation symbol
-    private static final Predicate<String> puncChecker = (str) -> PUNCTUATIONS.chars().anyMatch(p -> str.charAt(str.length() - 1) == p);
+    private static final Predicate<String> puncChecker = (str) -> ",.!?';".chars().anyMatch(p -> str.charAt(str.length() - 1) == p);
 
     public String mostCommonWord(String paragraph, String[] banned) {
         // Populate a set of banned words
@@ -45,6 +43,7 @@ class Solution819 {
                 countMap.put(word, 1);
             }
         }
+        // Find the max occuring word
         int max = 0;
         String maxWord = "";
         for (Map.Entry<String, Integer> entry : countMap.entrySet()) {

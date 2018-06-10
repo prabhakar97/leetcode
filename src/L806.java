@@ -15,16 +15,16 @@ class Solution806 {
         for (int i = 0; i < S.length(); i++) {
             curLine += widths[S.charAt(i) - 'a'];
             if (curLine > 100) {
+                // Didn't fit on current line
                 lineCount++;
+                // Spillover width
                 curLine = widths[S.charAt(i) - 'a'];
             } else if (curLine == 100) {
+                // Begin new line
                 lineCount++;
                 curLine = 0;
             }
         }
-        int[] result = new int[2];
-        result[0] = lineCount;
-        result[1] = curLine;
-        return result;
+        return new int[] { lineCount, curLine };
     }
 }

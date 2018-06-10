@@ -13,7 +13,7 @@ class Solution811 {
      */
     public List<String> subdomainVisits(String[] cpdomains) {
         Node root = new Node();
-        // Add all the domains to a tree
+        // Add all the domains to a tree and update the hitcounts
         for (String domain : cpdomains) {
             String[] countSplit = domain.split(" ");
             String[] domainParts = countSplit[1].split("\\.");
@@ -39,11 +39,12 @@ class Solution811 {
         }
 
         public Node() {
+            // Root node has blank domain and count as -1 as demarker
             this("", -1);
         }
     }
 
-    // Traverse the tree finding all the counts
+    // Traverse the tree finding all the counts and updating result list
     private void traverseTree(Node root, List<String> resultList, String currentDomain, int currentCount) {
         if (root != null) {
             String updatedDomain = "";

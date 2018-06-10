@@ -13,6 +13,7 @@ Problem ID  | Problem | Solution
 819  | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L819.java) 
 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L811.java) 
 806  | [Number of Lines to Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L806.java) 
+804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L804.java)
 
 ## Problems tagged Medium
 
