@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-class L819 {
+class Solution819 {
     /**
      * 819. Most Common Word https://leetcode.com/problems/most-common-word/description/
      * @timeComplexity O(n) where n is the length of string
