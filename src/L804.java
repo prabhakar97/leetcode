@@ -8,6 +8,8 @@ class Solution804 {
      * 804. Unique Morse Code Words https://leetcode.com/problems/unique-morse-code-words/description/
      * @param words String[]
      *              The list of input words to be transformed to Morse
+     * @timeComplexity O(n) where n is the number of chars in all words
+     * @spaceComplexity O(n) where n is the number of chars in all unique transformations
      * @return The number of unique morse transformations
      */
     public int uniqueMorseRepresentations(String[] words) {
