@@ -18,6 +18,7 @@ Problem ID  | Problem | Solution
 796  | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L796.java)
 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 788  | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L788.java)
+784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L784.java)
 
 ## Problems tagged Medium
 
