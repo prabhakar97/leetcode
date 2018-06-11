@@ -16,6 +16,7 @@ Problem ID  | Problem | Solution
 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L804.java)
 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L799.java)
 796  | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L796.java)
+791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 
 ## Problems tagged Medium
 
