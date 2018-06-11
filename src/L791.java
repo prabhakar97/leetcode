@@ -16,6 +16,7 @@ class Solution791 {
      */
     public String customSortString(String S, String T) {
         List<Character> chars = T.chars().mapToObj(c -> (char)c).collect(Collectors.toList());
+        // We create a new comparator and sort the input string based on this comparator
         Collections.sort(chars, Comparator.comparingInt(c -> S.indexOf(c)));
         return chars.stream().map(String::valueOf).collect(Collectors.joining());
     }
