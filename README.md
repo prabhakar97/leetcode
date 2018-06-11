@@ -19,6 +19,7 @@ Problem ID  | Problem | Solution
 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 788  | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L788.java)
 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L784.java)
+783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L783.java)
 
 ## Problems tagged Medium
 
