@@ -6,7 +6,7 @@ class Solution824 {
      * 824: Goat Latin https://leetcode.com/problems/goat-latin/description/
      * This solution leverages Java 8's stream features.
      * @timeComplexity O(n) where n is the number of characters in input string. There are constant number of vowels
-     *  in line 19 to be iterated.
+     *  in line 20 to be iterated.
      * @spaceComplexity O(1) the string buffer is only for output, it is not auxiliary.
      * @param S String
      *          Input string
