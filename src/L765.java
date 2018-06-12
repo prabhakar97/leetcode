@@ -37,8 +37,4 @@ class Solution765 {
             return i + 1;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution765().minSwapsCouples(new int[] { 0,2,4,6,7,1,3,5 }));
-    }
 }

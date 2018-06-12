@@ -28,6 +28,7 @@ Problem ID  | Problem | Solution
 779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L779.java)
 769  | [Max Chunks to Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L769.java)
 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L767.java)
+763  | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L763.java)
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution
