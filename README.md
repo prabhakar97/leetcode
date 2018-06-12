@@ -27,5 +27,6 @@ Problem ID  | Problem | Solution
 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L779.java)
 769  | [Max Chunks to Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L769.java)
+767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L767.java)
 
 ## Problems tagged Hard
