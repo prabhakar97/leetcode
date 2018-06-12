@@ -28,6 +28,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | [Click](../master/src/L779.java) | O(n) | O(1) | 5
 769  | [Max Chunks to Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Click](../master/src/L769.java) | O(n) | O(1) | 4
 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Click](../master/src/L767.java) | O(n) | O(1) | 11
+764  | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) | [Click](../master/src/L764.java) | O(N ^ 2) | O(N ^ 2) | 162
 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Click](../master/src/L763.java) | O(n) | O(1) | 13
 
 ## Problems tagged Hard
