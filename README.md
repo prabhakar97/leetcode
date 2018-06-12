@@ -30,3 +30,6 @@ Problem ID  | Problem | Solution
 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L767.java)
 
 ## Problems tagged Hard
+Problem ID  | Problem | Solution
+------------|---------|---------
+765  | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L765.java)
