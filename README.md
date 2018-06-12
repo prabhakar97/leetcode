@@ -14,13 +14,14 @@ Problem ID  | Problem | Solution
 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L811.java) 
 806  | [Number of Lines to Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L806.java) 
 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L804.java)
-799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L799.java)
 796  | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L796.java)
-791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 788  | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L788.java)
 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L784.java)
 783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L783.java)
 
 ## Problems tagged Medium
+799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L799.java)
+791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
+779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L779.java)
 
 ## Problems tagged Hard
