@@ -21,8 +21,11 @@ Problem ID  | Problem | Solution
 771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L771.java)
 
 ## Problems tagged Medium
+Problem ID  | Problem | Solution
+------------|---------|---------
 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L799.java)
 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L791.java)
 779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L779.java)
+769  | [Max Chunks to Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L769.java)
 
 ## Problems tagged Hard
