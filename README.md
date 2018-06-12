@@ -18,6 +18,7 @@ Problem ID  | Problem | Solution
 788  | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L788.java)
 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L784.java)
 783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L783.java)
+771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L771.java)
 
 ## Problems tagged Medium
 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [Click](https://github.com/prabhakar97/leetcode/blob/master/src/L799.java)
