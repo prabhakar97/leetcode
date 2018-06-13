@@ -19,6 +19,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Click](../master/src/L784.java) | O(2 ^ n) | O(2 ^ n) for returning, else O(1) | 97
 783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Click](../master/src/L783.java) | O(n) | O(1) | 5
 771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Click](../master/src/L771.java) | O(n) | O(1) | 19
+695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Click](../master/src/L695.java) | O(m * n) | O(m * n) | 37
 
 ## Problems tagged Medium
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
