@@ -35,6 +35,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Click](../master/src/L200.java) | O(m * n) | O(m * n) | 7
 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
+63   | [Minimu Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Click](../master/src/L64.java) | O(m * n) | O(m * n) | 8
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
