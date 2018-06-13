@@ -54,18 +54,13 @@ class Solution756 {
             newBottoms.add(prefix);
             return;
         }
-        StringBuilder sb = new StringBuilder(prefix);
         String key = bottom.substring(currentIndex, currentIndex + 2);
         if (!allowedMap.containsKey(key)) {
             return;
         } else {
-            Object[] allowedChars = allowedMap.get(key).toArray();
-            for (Object topChar : allowedChars) {
+            for (String topChar : allowedMap.get(key)) {
                 // Use this char
-                sb.append(topChar.toString());
-                getBottoms(bottom, sb.toString(), currentIndex + 1, allowedMap, newBottoms);
-                // Do not use this char
-                sb.deleteCharAt(sb.length() - 1);
+                getBottoms(bottom, prefix + topChar, currentIndex + 1, allowedMap, newBottoms);
             }
         }
     }
