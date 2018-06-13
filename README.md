@@ -33,7 +33,8 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Click](../master/src/L763.java) | O(n) | O(1) | 13
 756  | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Click](../master/src/L756.java) | Exponential | O(n) | 28
 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Click](../master/src/L200.java) | O(m * n) | O(m * n) | 7
-62   | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Click](../master/src/L262.java) | O(m * n) | O(m * n) | 1
+62   | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
+63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
