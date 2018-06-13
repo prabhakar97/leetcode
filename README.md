@@ -30,7 +30,8 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Click](../master/src/L767.java) | O(n) | O(1) | 11
 764  | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) | [Click](../master/src/L764.java) | O(N ^ 2) | O(N ^ 2) | 162
 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Click](../master/src/L763.java) | O(n) | O(1) | 13
-756  | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Click](../master/src/L756.java) | Exponential | O(n) | 13
+756  | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Click](../master/src/L756.java) | Exponential | O(n) | 28
+200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Click](../master/src/L200.java) | O(m * n) | O(m * n) | 7
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
