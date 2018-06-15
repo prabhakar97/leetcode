@@ -21,6 +21,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Click](../master/src/L771.java) | O(n) | O(1) | 19
 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Click](../master/src/L695.java) | O(m * n) | O(m * n) | 37
 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
+122  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
 
 ## Problems tagged Medium
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
