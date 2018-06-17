@@ -34,11 +34,12 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 764  | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [Click](../master/src/L764.java) | O(N ^ 2) | O(N ^ 2) | 162
 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Click](../master/src/L763.java) | O(n) | O(1) | 13
 756  | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [Click](../master/src/L756.java) | Exponential | O(n) | 28
+332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Click](../master/src/L332.java) | O(n^2) | O(n) | 13
+207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Click](../master/src/L207.java) | O(V + E) | O(V) | 10
 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Click](../master/src/L200.java) | O(m * n) | O(m * n) | 7
 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Click](../master/src/L64.java) | O(m * n) | O(m * n) | 8
-332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Click](../master/src/L332.java) | O(n^2) | O(n) | 13
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
