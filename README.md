@@ -21,7 +21,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Click](../master/src/L771.java) | O(n) | O(1) | 19
 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Click](../master/src/L695.java) | O(m * n) | O(m * n) | 37
 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
-122  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
+122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
 
 ## Problems tagged Medium
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
@@ -38,6 +38,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Click](../master/src/L64.java) | O(m * n) | O(m * n) | 8
+332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Click](../master/src/L332.java) | O(n^2) | O(n) | 13
 
 ## Problems tagged Hard
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)

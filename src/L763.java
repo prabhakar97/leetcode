@@ -34,8 +34,4 @@ class Solution763 {
         return partitionSizes;
 
     }
-
-    public static void main(String[] args) {
-        System.out.printf(Arrays.toString(new Solution763().partitionLabels("ababcbacadefegdehijhklij").toArray()));
-    }
 }

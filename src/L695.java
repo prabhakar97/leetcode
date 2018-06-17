@@ -43,8 +43,4 @@ class Solution695 {
             }
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution695().maxAreaOfIsland(new int[][] { new int[] {1,1,0,0,0}, new int[] {1,1,0,0,0}, new int[] {0,0,0,1,1}, new int[] {0,0,0,1,1}}));
-    }
 }
