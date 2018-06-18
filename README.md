@@ -28,6 +28,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 ------------|---------|----------|------------------|-----------------|-------------
 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Click](../master/src/L799.java) | O(m \* n) | O(m \* n) | 29
 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Click](../master/src/L791.java) | O(n log n) | O(1) | 92
+779  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Click](../master/src/L785.java) | O(V+E) | O(V) | 9
 779  | [k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Click](../master/src/L779.java) | O(n) | O(1) | 5
 769  | [Max Chunks to Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Click](../master/src/L769.java) | O(n) | O(1) | 4
 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Click](../master/src/L767.java) | O(n) | O(1) | 11
