@@ -23,6 +23,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 203  | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](../master/src/L203.java) | O(n) | O(1) | 7
 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
+111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Click](../master/src/L111.java) | O(n) | O(1) | 0
 
 ## Problems tagged Medium
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
