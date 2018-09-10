@@ -21,8 +21,8 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 771  | [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/) | [Click](../master/src/L771.java) | O(n) | O(1) | 19
 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Click](../master/src/L695.java) | O(m * n) | O(m * n) | 37
 203  | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](../master/src/L203.java) | O(n) | O(1) | 7
-121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
+121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Click](../master/src/L111.java) | O(n) | O(1) | 0
 
 ## Problems tagged Medium
@@ -44,6 +44,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Click](../master/src/L200.java) | O(m * n) | O(m * n) | 7
 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Click](../master/src/L107.java) | O(n) | O(n) | 98
 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Click](../master/src/L103.java) | O(n) | O(n) | 73
+102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Click](../master/src/L102.java) | O(n) | O(n) | 66
 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Click](../master/src/L100.java) | O(n) | O(1) | 3
 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Click](../master/src/L94.java) | O(n) | O(n) | 0
 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
