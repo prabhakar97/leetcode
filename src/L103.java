@@ -16,7 +16,6 @@ public class L103 {
      * @timeComplexity O(n)
      * @spaceComplexity O(n)
      */
-
     static class Solution {
         public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
             if (root == null) {
