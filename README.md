@@ -49,10 +49,10 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Click](../master/src/L102.java) | O(n) | O(n) | 66
 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Click](../master/src/L100.java) | O(n) | O(1) | 3
 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Click](../master/src/L94.java) | O(n) | O(n) | 0
-62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
-63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Click](../master/src/L64.java) | O(m * n) | O(m * n) | 8
-3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Click](../master/src/L3.java) | O(n) | O(n) | 203
+63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
+62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
+3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Click](../master/src/L3.java) | O(n) | O(n) | 35
 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Click](../master/src/L2.java) | O(n) | O(1) | 60
 
 ## Problems tagged Hard

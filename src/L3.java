@@ -15,15 +15,15 @@ public class L3 {
             int curEnd = 0;
             Map<Character, Integer> map = new HashMap<>();
             while (curEnd < s.length()) {
-                if (map.get(s.charAt(curEnd)) == null) {
-                    map.put(s.charAt(curEnd), curEnd);
-                } else {
-                    curStart = map.get(s.charAt(curEnd)) + 1;
-                    map = new HashMap<>();
-                    for (int j= curStart; j <= curEnd; j++) {
-                        map.put(s.charAt(j), j);
+                if (map.get(s.charAt(curEnd)) != null) {
+                    int newStart = map.get(s.charAt(curEnd)) + 1;
+                    // Remove all keys from curStart until newStart
+                    for (int j = curStart; j < newStart; j++) {
+                        map.remove(s.charAt(j));
                     }
+                    curStart = newStart;
                 }
+                map.put(s.charAt(curEnd), curEnd);
                 maxSeen = Math.max(maxSeen, curEnd - curStart + 1);
                 curEnd++;
             }
