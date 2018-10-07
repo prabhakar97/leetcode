@@ -53,6 +53,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Click](../master/src/L64.java) | O(m * n) | O(m * n) | 8
 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](../master/src/L63.java) | O(m * n) | O(m * n) | 1
 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Click](../master/src/L62.java) | O(m * n) | O(m * n) | 1
+17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Click](../master/src/L17.java) | O(n) | O(1) | 46
 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Click](../master/src/L3.java) | O(n) | O(n) | 35
 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Click](../master/src/L2.java) | O(n) | O(1) | 60
 
