@@ -24,6 +24,7 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Click](../master/src/L122.java) | O(n) | O(1) | 2
 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](../master/src/L121.java) | O(n) | O(1) | 1
 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Click](../master/src/L111.java) | O(n) | O(1) | 0
+20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Click](../master/src/L20.java) | O(n) | O(1) | 58
 
 ## Problems tagged Medium
 Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime (ms)
