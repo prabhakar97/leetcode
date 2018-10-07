@@ -63,3 +63,4 @@ Problem ID  | Problem | Solution | Space Complexity | Time Complexity | Runtime 
 765  | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [Click](../master/src/L765.java) | O(n) | O(n) | 5
 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Click](../master/src/L297.java) | O(n) | O(n) | 17
 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Click](../master/src/L72.java) | O(m * n) | O(m * n) | 14
+23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Click](../master/src/L23.java) | O(n) | O(1) | 14
